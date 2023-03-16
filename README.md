@@ -2,6 +2,8 @@
 
 This is the code to create AWS Sagemaker and its dependencies for demonstrating Hybrid Cloud. 
 
+The notebook to run on the SageMaker is [here](https://github.com/MG40/ecs-demo-notebook).
+
 ## Pre-requisites
 
 In order for this to run, you need to have:
