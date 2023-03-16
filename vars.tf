@@ -2,6 +2,13 @@
 # for the Nova-private subnet ID and
 # default security group associated
 
+# Instance Type
+variable "instance_type" {
+  type = string
+  description = "The type of the instance"
+  default = "<Instance_Type>"
+}
+
 # Subnet ID
 variable "subnet_id" {
   type = string 
